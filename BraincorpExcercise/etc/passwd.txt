@@ -1,0 +1,9 @@
+tom:x:1000:1000:VivekGite:/home/vivek:/bin/bash
+tom1:x:1001:1000:VivekGite:/home/vivek:/bin/bash
+tom2:x:1002:1000:VivekGite:/home/vivek:/bin/bash
+tom3:x:1003:1000:VivekGite:/home/vivek:/bin/bash
+tom4:x:1004:1000:VivekGite:/home/vivek:/bin/bash
+tom5:x:1005:1000:VivekGite:/home/vivek:/bin/bash
+tom6:x:1006:1000:VivekGite:/home/vivek:/bin/bash
+tom7:x:1007:1000:VivekGite:/home/vivek:/bin/bash
+tom8:x:1008:1000:VivekGite:/home/vivek:/bin/bash
